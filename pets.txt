@@ -6,3 +6,4 @@ fishes
 buffalo
 donkey
 frog
+cow
