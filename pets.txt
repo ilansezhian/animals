@@ -3,3 +3,5 @@ cats
 birds
 rats
 fishes
+buffalo
+donkey
